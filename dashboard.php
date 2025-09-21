@@ -103,7 +103,7 @@
     </div>
     <!-- Transaksi -->
     <div class="col-md-4 col-lg-3">
-      <a href="transaction.php" class="text-decoration-none">
+      <a href="transaksi.php" class="text-decoration-none">
         <div class="card-menu">
           <img src="https://img.icons8.com/ios-filled/50/2e7d32/transaction-list.png"/>
           <h4>Transaksi</h4>
